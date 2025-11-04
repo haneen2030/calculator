@@ -1,7 +1,7 @@
 ## 1. calculator project
 Simple Python Calculator.
 
-Optional: add a short one-line description under it.
+
 
  ## 2. Overview
 
